@@ -1,0 +1,8 @@
+{
+  "name": "array-generics",
+  "version": "1.0.0",
+  "main": "array.generics.js",
+  "repository": "git@github.com:PascaleBeier/array-generics.git",
+  "author": "Alex K",
+  "license": "MIT"
+}
